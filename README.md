@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pankaj128g
 - 👀 I’m interested in XYZ
-- 🌱 I’m currently learning Android App Development
+- 🌱 I’m currently learning Java Backend Solutions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pgorle16@gmail.com
 
